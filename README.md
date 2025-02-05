@@ -75,7 +75,7 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn tensorflow 
 
 Clone this repository:
 
-git clone https://github.com/yourusername/GreenhouseGasForecasting.git
+git clone https://github.com/priyanshu-2055/GreenHouseGas_Forecasting.git
 
 Navigate to the project directory:
 
@@ -97,7 +97,4 @@ Analyzing the impact of external factors like policy changes and technological a
 
 Priyanshu Kumar
 
-License
-
-This project is licensed under the MIT License.
 
